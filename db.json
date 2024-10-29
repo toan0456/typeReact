@@ -1,0 +1,33 @@
+{
+  "product": [
+    {
+      "id": "afc8",
+      "name": "dáeq",
+      "price": 23423,
+      "desc": "8574"
+    },
+    {
+      "id": "193d",
+      "name": "dfggewt",
+      "price": 4623412,
+      "desc": "3524"
+    }
+  ],
+  "users": [
+    {
+      "id": "4f0a",
+      "email": "toan123@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "55f7",
+      "email": "t@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "f1d7",
+      "email": "a@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
